@@ -32,7 +32,7 @@ def codice_carbonaro():
 
 def ripeti():
     while True:
-        scelta = input("Premi 'q' per uscire dal programma o 'r' per codificare/decodifiacre un'altro messaggio: ")
+        scelta = input("Premi 'q' per uscire dal programma o 'r' per codificare/decodificare un'altro messaggio: ")
         
         if scelta == 'q':
             print("Uscita dal programma.")
